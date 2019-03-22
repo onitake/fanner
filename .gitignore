@@ -1,0 +1,26 @@
+# CAM outputs
+/plot/*
+
+# Data sheets / CAM outputs
+*.ps
+*.pdf
+
+# Generated code
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+*.srec
+
+# KiCAD stuff
+*.net
+_autosave-*
+*-rescue.dcm
+*-rescue.lib
+sym-lib-table
+
+# Others
+*.zip
+*.bak
+*-bak

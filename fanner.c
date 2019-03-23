@@ -10,7 +10,7 @@ PB3 SWITCH
 PB4 TEMP
 */
 
-/* max change on each ramp steap */
+/* max duty cycle change on each ramp steap */
 #define RAMP_DELTA 1
 /* delay between PWM updates (ms) */
 #define RAMP_DELAY 10
